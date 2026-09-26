@@ -99,15 +99,8 @@ python 07_statistical_significance_testing.py
 
 ---
 
-## 📜 Citation & License
+## 📜 License
 
-This project is licensed under the MIT License. If you utilize Sentinel-IoT or the associated evaluation code, please cite our work:
+This project is licensed under the MIT License.
 
-```bibtex
-@unpublished{sentinel_iot_2026,
-  title={Sentinel-IoT: An Autonomous and Explainable Extended Detection and Response Framework for Heterogeneous Industrial IoT Security and Compliance Auditing},
-  author={Tariq, Wajahat Ali and Hashmi, Abdullah Bin Zubair and Ali, Farman and Hashmi, Muhammad Usman and Alsini, Raed and Yafoz, Ayman},
-  note={Manuscript under review},
-  year={2026}
-}
-```
+> **Citation information will be added here upon publication.**
